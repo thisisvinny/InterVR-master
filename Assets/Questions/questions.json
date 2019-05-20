@@ -1,0 +1,163 @@
+{
+	"type_1": [
+		{	
+			"type" : 1,
+			"question" : "How did you hear about the position?",
+			"sound" : "",
+			"choices" : [
+				"I don’t remember.", 
+				"I found it somewhere.", 
+				"I heard from a friend who works in the company.", 
+				"I happened to find it online." 
+			],
+			"points" : [0,100,200,300]
+		},
+		{	
+			"type" : 1,
+			"question" : "What's your dream job?",
+			"sound" : "",
+			"choices" : [
+				"I want to be the President.", 
+				"I don't have a dream job.", 
+				"I want to be a Software Engineer.", 
+				"I want to be a garbage man."
+			],
+			"points" : [100,0,300,200]
+		},
+		{	
+			"type" : 1,
+			"question" : "Why do you want this job?",
+			"sound" : "",
+			"choices" : [
+				"I like the company and align with its goals.", 
+				"I want to get paid.", 
+				"I have relatives working in the company.", 
+				"I'm not sure."
+			],
+			"points" : [300,200,100,0]
+		},
+		{
+			"type" : 1,
+			"question" : "What type of work environment do you prefer?",
+			"sound" : "",
+			"choices" : [
+				"I prefer group environments.", 
+				"I prefer solo environments.", 
+				"I prefer no environments.", 
+				"I prefer not working."
+			],
+			"points" : [300,300,0,0]
+		}
+	
+	],
+
+	"type_2" : [
+		{
+			"type" : 2,
+			"question" : "Why should we hire you?",
+			"sound" : "",
+			"choices" : [
+				"I want to be the very best.", 
+				"Do not hire me.", 
+				"I have experience as an engineer.", 
+				"My skills match the skills on your job description."
+			],
+			"points" : [100,0,200,300]
+		},
+		{
+			"type" : 2,
+			"question" : "What do you know about the company?",
+			"sound" : "",
+			"choices" : [
+				"Your company lost a lawsuit", 
+				"Your company is a financial company", 
+				"Your company is looking to expand to New York.", 
+				"What is your company name again?"
+			],
+			"points" : [100,300,200,0]
+		},
+		{
+			"type" : 2,
+			"question" : "What do you consider to be your weakness?",
+			"sound" : "",
+			"choices" : [
+				"I have no weakness.",
+				"I am not a very social person.",
+				"I do not work well under pressure, but I try my best.",
+				"I can never seem to meet deadlines."
+			],
+			"points" : [0,200,300,100]
+		}
+
+	],
+
+	"type_3" : [
+		{
+			"type" : 3,
+			"question" : "What is your gender?",
+			"sound" : "",
+			"choices" : [
+				"I prefer not to answer.",
+				"I'm a cow.",
+				"I'm male.",
+				"I'm female."
+			],
+			"points" : [300,0,100,100]
+		},
+		{
+			"type" : 3,
+			"question" : "Are you a citizen?",
+			"sound" : "",
+			"choices" : [
+				"I'm from outer space.",
+				"Yes.",
+				"I prefer not to answer.",
+				"No."
+			],
+			"points" : [0,100,300,100]
+		},
+		{
+			"type" : 3,
+			"question" : "What is your nationality?",
+			"sound" : "",
+			"choices" : [
+				"I'm not real.",
+				"I am ________.",
+				"I don't know.",
+				"I prefer not to answer."
+			],
+			"points" : [0,100,200,300]
+		}
+	],
+
+	"type_4" : [
+		{
+			"type" : 4,
+			"question" : "What is your favorite color?",
+			"sound" : "",
+			"choices" : [
+				"All of them.",
+				"I don't have one.",
+				"Blue.",
+				"Why is this relevant?"
+			],
+			"points" : [100,100,100,300]
+		}
+	],
+
+	"type_5" : [
+		{
+			"type" : 5,
+			"question" : "Tell me about yourself. Your skills? Your weaknesses?",
+			"sound" : "",
+			"choices" : [
+				"Can you repeat that slowly?",
+				"*Sit there silently*",
+				"Which one do I answer first?",
+				"That was too many questions at once!"
+			],
+			"points" : [300,0,300,100]
+		}
+	]
+
+}
