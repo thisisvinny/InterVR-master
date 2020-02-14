@@ -1,4 +1,4 @@
-# InterVR-master
+# InterVR
 
 A job interview training simulator in virtual reality.
 
