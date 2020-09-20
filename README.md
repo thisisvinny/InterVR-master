@@ -1,6 +1,6 @@
 # InterVR
 
-A job interview training simulator in virtual reality.
+InterVR is a job interview training simulator in virtual reality.
 
 InterVR's video and paper can be found directly on NYSID's CREATE website [here](https://www.nysid.org/create/projects/8-32/The-City-College-of-New-York-2018-2019-Academic-Year/).
 
